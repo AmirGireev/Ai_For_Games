@@ -5,7 +5,7 @@ Note: This repository only contains the AI logic (MeineKI.java) that I wrote. Th
 
 # What the AI does:
 
-Pathfinding: It finds the shortest way to items and navigates around obstacles using a grid-based search algorithm (BFS).
+Pathfinding: It finds the shortest way to items and navigates around obstacles using a grid-based search algorithm.
 
 Enemy Avoidance: It detects moving enemies (fish) or water currents and automatically steers away from them.
 
